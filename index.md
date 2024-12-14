@@ -2,10 +2,10 @@
 
 ---
 
-## [Portfólió](https://erosbence27.github.io/jegyzokonyv/index)
+## [Portfólió](https://erosbence27.github.io/portfolio/index)
 
 ---
 
-## [Mérési Jegyzőkönyvek](https://erosbence27.github.io/portfolio/index)
+## [Mérési Jegyzőkönyvek](https://erosbence27.github.io/jegyzokonyv/index)
 
 ---
